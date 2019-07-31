@@ -1,0 +1,77 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/businessman-talking-about-data-analysis.png</file>
+        <file>images/chat (1).png</file>
+        <file>images/chat.png</file>
+        <file>images/check-list (1).png</file>
+        <file>images/check-list.png</file>
+        <file>images/classroom.png</file>
+        <file>images/Como-contratar-empresa-para-envio-de-SMS-Marketing.jpg</file>
+        <file>images/depositphotos_24272483-stock-photo-sms-advertising-button.jpg</file>
+        <file>images/document.png</file>
+        <file>images/ebook.png</file>
+        <file>images/education-about-light.png</file>
+        <file>images/email (1).png</file>
+        <file>images/email (4).png</file>
+        <file>images/ereader.png</file>
+        <file>images/eye.png</file>
+        <file>images/family (1).png</file>
+        <file>images/family.png</file>
+        <file>images/games-player-upgrading-level-symbol.png</file>
+        <file>images/group.png</file>
+        <file>images/icon.png</file>
+        <file>images/ICONE.png</file>
+        <file>images/icons8-search-for-love-24.png</file>
+        <file>images/imgserver.jpg</file>
+        <file>images/language.png</file>
+        <file>images/list (1).png</file>
+        <file>images/list.png</file>
+        <file>images/loading.png</file>
+        <file>images/log-in-button-with-arrow.png</file>
+        <file>images/Logo_SenSchool_Texting.jpg</file>
+        <file>images/Logo_SenSchool_Texting-bell.jpg</file>
+        <file>images/LogoNLorange.png</file>
+        <file>images/logout (1).png</file>
+        <file>images/logout.png</file>
+        <file>images/mobile-phone (1).png</file>
+        <file>images/mobile-phone (2).png</file>
+        <file>images/notebook.png</file>
+        <file>images/notepad.png</file>
+        <file>images/notes.png</file>
+        <file>images/page1.jpg</file>
+        <file>images/paper-plane.png</file>
+        <file>images/password (1).png</file>
+        <file>images/password.png</file>
+        <file>images/plus-button.png</file>
+        <file>images/presentation (1).png</file>
+        <file>images/presentation (2).png</file>
+        <file>images/presentation.png</file>
+        <file>images/rotate.png</file>
+        <file>images/save.png</file>
+        <file>images/schedule.png</file>
+        <file>images/schoolù.png</file>
+        <file>images/search.png</file>
+        <file>images/sharing.png</file>
+        <file>images/sms.png</file>
+        <file>images/specialist-user.png</file>
+        <file>images/stack-exchange-logo.png</file>
+        <file>images/student (1).png</file>
+        <file>images/student.png</file>
+        <file>images/table.png</file>
+        <file>images/text.png</file>
+        <file>images/text-lines (1).png</file>
+        <file>images/text-lines.png</file>
+        <file>images/text-messages-chat-ss-1920.jpg</file>
+        <file>images/translator.png</file>
+        <file>images/trash.png</file>
+        <file>images/trash_1.png</file>
+        <file>images/unlock.png</file>
+        <file>images/user.png</file>
+        <file>images/users-group.png</file>
+        <file>images/writing.png</file>
+        <file>images/writing-tool (1).png</file>
+        <file>images/writing-tool (1)_1.png</file>
+        <file>images/x-button.png</file>
+        <file>images/logo.jpg</file>
+    </qresource>
+</RCC>
